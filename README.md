@@ -1,6 +1,8 @@
 **README**
 
-CIS-3755-001 Final Project: Screen Time, Sleep, and Stress Analysis 
+CIS-3755-001 Final Project
+
+Digital Habits and Well-Being: Exploring the Relationships between Sleep, Screen Time, and Stress
 
 by Madison Sleppy
 
